@@ -1,1 +1,6 @@
 If you can read this file on your computer, it means you cloned repository properly
+Your task for this workshop:
+clone repository
+create .txt file named <name_surname.txt> with the same content
+prepare commit
+push file on github
